@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119335573202",
+    "project_id": "calendar-lotus",
+    "storage_bucket": "calendar-lotus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119335573202:android:be7ddc0a825d2dfd037f0b",
+        "android_client_info": {
+          "package_name": "com.example.p1_login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQfUrcR0Z1Rskj8WJEVrSoVRxL1QayFtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
